@@ -11,6 +11,7 @@ body {
 }
 
 h1 {
+    margin-top: 50px;
     font-size: 50;
 }
 
@@ -31,8 +32,20 @@ a {
     border-radius: 5px;
 }
 
-#image {
+#fishing {
+    margin-right: 10px;
     width: 300px;
+    border-radius: 20px;
+}
+
+#forest {
+    margin-left: 20px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+#planting {
+    width: 500px;
     border-radius: 20px;
 }
 
@@ -52,11 +65,13 @@ a {
     
     align-items: center;
     justify-content: center;
+    margin: 15px;
 }
 
 .description {
     display: flex;
     flex-direction: column;
-    width: 45%;
+    width: 40%;
     margin: 30px;
+    
 }
