@@ -65,6 +65,11 @@ a:hover {
 
 #youtube {
     background-color: rgb(183, 63, 63);
+    margin-right: 16px;
+}
+
+#story {
+    background-color: rgb(158, 79, 192);
 }
 
 .section {
